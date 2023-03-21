@@ -4,7 +4,7 @@
 #include <math.h>
 #include<stdio.h>
 
-/* Salih Emre Torunoğlu 190201041
+/* Salih Emre Torunoğlu 
 This code uses the DDA or Bresenham algorithm based on the selection through the menu
 to draw a line or a circle between the first two points in the points vector. 
 The center of the circle is the first point in the points vector and the second point is 
